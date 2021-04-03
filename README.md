@@ -104,3 +104,4 @@ To Uber Technologies for releasing numerous materials on the design and
 implementation of Mezzanine, their Schemaless store.
 
 And to many others :)
+# go-schemaless
